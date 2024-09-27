@@ -1,3 +1,8 @@
 echo:
   message:
-    msg: 'Hello, Ghosh'
+    msg: 'Hello, J'
+
+spring:
+ kafka:
+  topic:
+   name:ofss-oth-topic  
