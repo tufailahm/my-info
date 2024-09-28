@@ -1,8 +1,7 @@
-echo:
-  message:
-    msg: 'Hello, J'
+author:
+  name: 'Mohammad Tufail Ahmed'
 
 spring:
  kafka:
   topic:
-   name:ofss-oth-topic  
+   name:ofss-oth-topic
