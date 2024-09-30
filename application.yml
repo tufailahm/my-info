@@ -4,4 +4,4 @@ author:
 spring:
  kafka:
   topic:
-   name:ofss-oth-topic
+   name: ofss-oth-topic
